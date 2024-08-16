@@ -14,7 +14,7 @@ import Task from '../../component/tasks/Task'
 import Cal from '../../component/cal/Cal'
 import Business from '../../component/footer/Business/Business'
 import Team from '../../component/footer/Team/Team '
-import Control from '../../component/footer/Control /Control '
+import Control from '../../component/footer/Control'
 import Starbucks from '../../component/footer/Starbucks/Starbucks'
 import '../../style/dark.scss'
 import { useState } from 'react';
